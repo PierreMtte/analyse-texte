@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\click"
+		},
+		{
+			"path": "..\\mastermind"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mastermind"
+	}
+}
